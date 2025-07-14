@@ -7,7 +7,7 @@
 
 ```
 ├── SimpleAMM.sol      # 主AMM合约（包含便捷函数）
-├── TestTokens.sol     # 测试代币合约 (decimals=6，便于操作)
+├── TestTokens.sol     # 测试代币合约 (decimals=18)
 └── README.md         # 说明文档
 ```
 
